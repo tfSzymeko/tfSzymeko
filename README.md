@@ -3,5 +3,6 @@
 ## To do list:
 <br>
 Core Plugin<br>
-<s>AvaraionGuard-Free</s>
+<s>AvaraionGuard-Free</s><br>
+AntiCrash Plugin
 <br>
