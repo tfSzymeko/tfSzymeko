@@ -4,5 +4,6 @@
 <br>
 Core Plugin<br>
 <s>AvaraionGuard-Free</s><br>
-AntiCrash Plugin
+<s>AntiCrash Plugin</s><br>
+PvP Core Plugin
 <br>
