@@ -3,6 +3,6 @@
 ## To do list:
 <br>
 
-Huj znajdziesz
+Huja znajdziesz
 
 <br>
